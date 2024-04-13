@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.divbo{
+    border-radius: 5px;
+    width: 600px;
+    border:1px solid rgba(128, 128, 128,0.1) ;
+}
+.divcon{
+    padding-bottom: 30px;
+   margin: 10px;
+    background-color: rgba(14, 14, 14,0.1);
+}
+.divchau{
+    padding-left: 10px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-align: center;
+}
+form{
+    font-family:cursive ;
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 30px;
+    padding:10px 0  ;
+}
+.form1{
+    display: block;
+    padding-left: 10px;
+}
+.inputall{
+    
+    height: 30px;
+    width:100%;
+    /* margin-left: 10px; */
+    border-radius: 5px;
+    border:1px solid rgba(5, 4, 4,0.1);
+    
+}
+.btn{
+    border-radius: 5px;
+    width: 10%;
+    height: 20%;
+    background-color: black; color: white;
+    display: block;
+    padding: 10px;
+    margin:  10px;
+}

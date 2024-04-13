@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+.group_border{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 350px;
+    height: 550px;
+}
+.wrapper{
+    background-color:rgba(142, 140, 140,0.1);
+    margin: 20px;
+    height: 520px;
+}
+.borderdivheader{
+    padding-top: 2px;
+}
+.divheader, .divmain, .divmaintwo, .divfoonter{
+    line-height: 30px;
+    margin: 10px;
+    background-color: white;
+    border: 1px solid rgba(3, 3, 3,0.2);
+    border-bottom: 1px solid rgba(12, 12, 12,0.2);
+    border-radius: 4px;
+    
+
+}
+.price{
+    padding: 5px 10px;
+}
+.passenger{
+    /* display: flex; */
+    margin-bottom: 20px;
+    list-style: none;
+    padding: 5px 10px;
+}
+.ulheader{
+    justify-content:space-between;
+    display: flex;
+    list-style: none;
+
+}
+
+.ulheader2{
+    justify-content:space-between;
+    display: flex;
+    list-style: none;
+}
+
+.ulheader3{
+    justify-content:space-between;
+    display: flex;
+    list-style: none;
+}
+
+.ulheader4{
+    background-color: rgb(136, 136, 248);
+    justify-content:space-between;
+    display: flex;
+    list-style: none;
+}
+
+.divmain{
+    padding: 5px 10px;
+}
+
+.divmaintwo{
+    padding: 5px 10px;
+}
+
+.ulmaintwo1{
+    justify-content:space-between;
+    display: flex;
+    list-style: none;
+}
+
+.ulmaintwo2{
+    justify-content:space-between;
+    display: flex;
+    list-style: none;}
+
+.divfoonter{
+    padding: 5px 10px;
+    padding-bottom: 40px;
+}
+.bold{
+    font-weight: bold;
+}

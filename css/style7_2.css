@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.group{
+    position: absolute;
+    top: 0;
+    background-color: rgba(2, 2, 8, 0.8);
+    width: 600px; height: 200px;
+    z-index: 1;
+    text-align: center;
+}
+
+.inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;  
+}
+
+
+
+img{
+    width: 600px;
+    height: 200px;
+    z-index: 0;
+    /* để đè lên nhau */
+}
+.nhom1{
+    padding: 10px;
+    color: white;
+}
+.nhom3{
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: rgba(248, 66, 0, 0.8);
+    text-align: center;
+    border-radius: 5px;
+/* để bo tròn lại khung */
+}

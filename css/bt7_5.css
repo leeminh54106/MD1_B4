@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.divbo {
+    border: 1px solid black;
+    width: 40%;
+    border-radius: 5px;
+}
+
+.divcon {
+    margin: 10px;
+    padding-bottom: 20px;
+    background-color: rgba(72, 71, 71, 0.05);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.formchinh {
+    margin: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(247, 170, 29, 0.5);
+}
+
+.divchau {
+    padding-left: 10px;
+}
+
+.labelall {
+    display: block;
+    margin-left: 10px;
+}
+
+.inputall {
+    height: 30px;
+    width: 100%;
+    display: block;
+    /* margin-left: 10px; */
+    border-radius: 3px ;
+    background-color: rgb(242, 242, 242);
+    border: none;
+}
+
+.buttonall {
+    padding: 10px;
+    background-color: rgba(4, 28, 243, 0.7);
+    color: white;
+    width: 15%;
+    border-radius: 5px;
+    margin: 10px;
+}

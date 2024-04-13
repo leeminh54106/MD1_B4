@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.divcha{
+    margin: 10px;
+    background-color: rgba(20, 20, 20,0.1);
+}
+
+header{
+    padding: 10px;
+    background-color: rgba(20, 20, 20,0.1);
+    border-bottom: 1px solid rgb(89, 88, 88);
+}
+
+section{
+    padding: 10px;
+}
+.divcon1{
+    display: flex;
+}
+
+.divcon2{
+    display: flex;
+}
+
+.divcon3{
+    display: flex;
+}
+.divcon{
+    width: 30%;
+    background-color: white;
+    margin: 10px;
+}
+.btn{
+    background-color:rgb(26, 139, 185);
+    color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}

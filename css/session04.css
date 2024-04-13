@@ -1,0 +1,21 @@
+#av{
+    background-color: aquamarine; color: brown;
+}
+.av{
+    background-color: rgb(24, 30, 28);color: rgb(234, 199, 199);
+}
+a[href="http://127.0.0.1:5500/bt7.html"]
+{
+    color: blue;
+}
+.demo{
+    text-align: rigth;
+    background-color: antiquewhite;
+    color: rgb(1, 2, 2);
+    width: 500px;
+    height: 300px;
+    padding: 50px;
+    margin: 50px;
+    border: 10px solid black;
+}
+

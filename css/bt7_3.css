@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.divbo {
+    width: 60%;
+    border: 1px solid #777;
+}
+
+.divcon {
+    margin: 20px;
+    background-color: #e4dddd;
+}
+
+.divchau {
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.hbo {
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.pbo {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 500;
+    /* display: inline; */
+}
+
+.span {
+    color: red;
+    font-weight: bold;
+    /* text-align: left; */
+    /* display: inline; */
+}

@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.group_boder {
+    width: 800px;
+    border: 1px solid #888;
+    border-radius: 8px;
+}
+
+.wrapper {
+    margin: 20px 40px;
+}
+
+.h_home {
+    padding-bottom: 30px;
+    color: rgb(241, 214, 145);
+
+}
+
+.h_home-heading {
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+}
+
+.app_container {
+    margin: 15px 0;
+}
+
+.container_h1 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+.container_nav {
+    margin: 15px 0;
+}
+
+.container_list {
+    display: flex;
+    list-style: none;
+    border-bottom: 1px solid #888;
+}
+
+.container_item {
+    margin-right: 16px;
+    line-height: 2.5;
+}
+
+.active {
+    border-bottom: 3px solid #2326f1;
+}
+
+.content_inner {
+    margin: 40px 0 25px 0;
+    text-align: center;
+}
+
+.inner-heading {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.heading-status--span {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px 0;
+    color: black;
+}
+
+.heading-status--desc {
+    font-size: 16px;
+    font-weight: 700;
+    color: #888;
+    padding: 5px 0;
+}
+
+
+.total--number {
+    font-size: 20px;
+    font-weight: 800;
+    padding: 5px 0;
+    
+}
+
+.total--money {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 5px 0;
+    color: #888;
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    color: #888;
+    margin: 30px 0;
+}
+
+.footer_group {
+    display: flex;
+    justify-content:space-around;
+}
+
+.footer_pending {
+    width: 130px;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px 0;
+}
+
+.pending-heading {
+    margin-bottom: 4px;
+}
+
+.xanh {
+    background-color: #2326f1;
+}
+
+.cam {
+    background-color: chocolate;
+}
+
+.green {
+    background-color: rgb(34, 222, 59);
+}
+.trang{
+
+    background-color: rgb(240, 238, 235);
+}
